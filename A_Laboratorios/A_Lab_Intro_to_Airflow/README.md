@@ -1,2 +1,2 @@
-# Curso-Airflow-2026
-Este repositorio contiene los laboratorios y los proyectos del curso de Airflow.
+# AirflowCourse
+Acá deben hacer una descripción de su proyecto y documentación, de como instalar lo necesario para levantarlo en local con el fin de ejecutarlo exitosamente. 
