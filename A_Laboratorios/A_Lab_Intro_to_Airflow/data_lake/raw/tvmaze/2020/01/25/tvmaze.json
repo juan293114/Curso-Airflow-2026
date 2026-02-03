@@ -336,18 +336,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/610/1525913.jpg"
         },
         "summary": "<p>As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he's sixteen, he faces his greatest battle yet \u2013 Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away\u2026<br />\u00a0</p>",
-        "updated": 1769816888,
+        "updated": 1769971448,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46240"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3482673",
-            "name": "Muscle Remodeling with Protein Sect"
+            "href": "https://api.tvmaze.com/episodes/3482674",
+            "name": "Making a Sword Spirit for Little Sister"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3482674",
-            "name": "Episode 9"
+            "href": "https://api.tvmaze.com/episodes/3482675",
+            "name": "Episode 10"
           }
         }
       }
@@ -406,7 +406,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -495,7 +495,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -840,7 +840,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 59,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 319,
@@ -1526,7 +1526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 319,
@@ -1690,7 +1690,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -2129,7 +2129,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 64,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2388,7 +2388,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2417,12 +2417,12 @@
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475361",
-            "name": "Herborg Kr\u00e5kevik \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475363",
+            "name": "Synne Vo \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475362",
-            "name": "Synne Vo \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475364",
+            "name": "Musti \u2013 del 1"
           }
         }
       }
@@ -2483,7 +2483,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2512,12 +2512,12 @@
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475361",
-            "name": "Herborg Kr\u00e5kevik \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475363",
+            "name": "Synne Vo \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475362",
-            "name": "Synne Vo \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475364",
+            "name": "Musti \u2013 del 1"
           }
         }
       }
@@ -2654,7 +2654,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 95,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 265,

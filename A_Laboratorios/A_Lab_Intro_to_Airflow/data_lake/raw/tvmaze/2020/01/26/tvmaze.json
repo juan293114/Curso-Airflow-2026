@@ -762,7 +762,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 56,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -849,7 +849,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -939,7 +939,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1026,7 +1026,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1200,7 +1200,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1287,7 +1287,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1374,7 +1374,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 90,
+        "weight": 91,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1552,7 +1552,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 89,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -1912,7 +1912,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 377,
@@ -2090,7 +2090,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2177,7 +2177,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2269,7 +2269,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -2347,7 +2347,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2503,7 +2503,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -2522,7 +2522,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/213/533674.jpg"
         },
         "summary": "<p><b>World Wonder Ring Stardom</b>, legal name Kabushiki Gaisha Stardom (\u682a\u5f0f\u4f1a\u793e\u30b9\u30bf\u30fc\u30c0\u30e0 Kabushiki Gaisha Sut\u0101damu) and often referred to simply as Stardom (stylized as STARD\u272aM),[2] is a Japanese joshi puroresu or women's professional wrestling promotion, founded in September 2010 by former Hyper Visual Fighting Arsion and JDStar promoter Rossy Ogawa, retired wrestler, model and mixed martial artist Fuka Kakimoto and veteran professional wrestler Nanae Takahashi. Stardom quickly became one of the top joshi puroresu promotions, largely thanks to gravure idol Yuzuki Aikawa becoming the promotion's public face.</p>",
-        "updated": 1767433735,
+        "updated": 1769968823,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42383"
@@ -2530,6 +2530,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3506652",
             "name": "Stardom New Year Stars 2026 in Korakuen"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3537573",
+            "name": "Stardom New Blood 28"
           }
         }
       }
@@ -2586,7 +2590,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2611,12 +2615,12 @@
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534754",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f Live: \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043f\u0435\u0440\u0435\u043c\u0438\u0440\u0438\u0435, \u0431\u0438\u0442\u0432\u0430 \u043f\u0440\u043e\u0442\u0438\u0432 ICE, \u0434\u0432\u043e\u0439\u043a\u0438 \u0437\u0430 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532244",
             "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 206-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3532245",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 207-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -2856,7 +2860,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2942,7 +2946,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -3028,7 +3032,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4104,7 +4108,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4436,7 +4440,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 81,
+        "weight": 82,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -4624,7 +4628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": {
           "id": 263,
           "name": "TV Asahi",
@@ -4808,7 +4812,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -5002,7 +5006,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1002874.jpg"
         },
         "summary": null,
-        "updated": 1769898019,
+        "updated": 1770077960,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2855"
@@ -5069,7 +5073,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -5152,7 +5156,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 331,

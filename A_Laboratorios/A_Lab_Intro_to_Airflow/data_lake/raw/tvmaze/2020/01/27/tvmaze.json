@@ -130,7 +130,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -481,7 +481,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 88,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -1000,7 +1000,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": {
           "id": 1945,
           "name": "Cartoon Network",
@@ -1361,7 +1361,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1881,7 +1881,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1967,7 +1967,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2053,7 +2053,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 72,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2072,14 +2072,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1767044714,
+        "updated": 1769988477,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3488855",
-            "name": "Ask Orange #96 - GOOPIEST CHRISTMAS EVER!!!"
+            "href": "https://api.tvmaze.com/episodes/3537802",
+            "name": "CHICKY NUGS (ORIGINAL SONG)"
           }
         }
       }
@@ -2706,7 +2706,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2796,7 +2796,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2882,7 +2882,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2901,18 +2901,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1769683502,
+        "updated": 1770017214,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526403",
-            "name": "01/30/2026"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534538",
             "name": "02/02/2026"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534539",
+            "name": "02/03/2026"
           }
         }
       }
@@ -3046,7 +3046,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 33,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3214,7 +3214,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4382,7 +4382,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -4549,7 +4549,7 @@
         "rating": {
           "average": null
         },
-        "weight": 22,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4632,7 +4632,7 @@
         "rating": {
           "average": null
         },
-        "weight": 22,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4905,18 +4905,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055438.jpg"
         },
         "summary": "<p>The first-ever, original variety show featuring TOMORROW X TOGETHER and their bubbly personalities off the stage!</p>",
-        "updated": 1769437433,
+        "updated": 1770041987,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/64132"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3507755",
-            "name": "EP.167 No Sleep, More Sleep"
+            "href": "https://api.tvmaze.com/episodes/3507756",
+            "name": "EP.168 Are There Upperclassmen Like This in College?"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3507756",
-            "name": "EP.168"
+            "href": "https://api.tvmaze.com/episodes/3507758",
+            "name": "EP.169"
           }
         }
       }
@@ -5075,18 +5075,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016520.jpg"
         },
         "summary": "<p><b>NFL Films Presents</b> is devoted to producing commercials, television programs, feature films, and documentaries on the National Football League, as well as other unrelated major events and awards shows. It is currently owned by the NFL and produces most of its videotaped content except its live game coverage, which is handled separately by the individual networks.\"</p>",
-        "updated": 1768645897,
+        "updated": 1770024143,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/6441"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526572",
-            "name": "Riding High"
+            "href": "https://api.tvmaze.com/episodes/3538081",
+            "name": "Memories"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526573",
-            "name": "Super Bowl Recap"
+            "href": "https://api.tvmaze.com/episodes/3538082",
+            "name": "Sights and Sounds of the Season"
           }
         }
       }
@@ -5432,7 +5432,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5518,7 +5518,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 28,
         "network": null,
         "webChannel": {
           "id": 32,
@@ -5609,7 +5609,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 92,
+        "weight": 91,
         "network": {
           "id": 755,
           "name": "Show TV",
@@ -6143,7 +6143,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -6236,7 +6236,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 84,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6259,18 +6259,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1769137583,
+        "updated": 1769924136,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509936",
-            "name": "Aflevering 7203"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509937",
             "name": "Aflevering 7204"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509938",
+            "name": "Aflevering 7205"
           }
         }
       }
@@ -6497,7 +6497,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 43,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -6600,18 +6600,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1769484426,
+        "updated": 1770084633,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3434343",
-            "name": "#1705 - Scotiabank Arena in Toronto, ON"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3434344",
             "name": "#1706 - Xfinity Mobile Arena in Philadelphia, PA"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3434345",
+            "name": "#1707 - Rocket Arena in Cleveland, OH"
           }
         }
       }

@@ -562,7 +562,7 @@
         "rating": {
           "average": null
         },
-        "weight": 80,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 346,
@@ -817,7 +817,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -907,7 +907,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1423,7 +1423,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1591,7 +1591,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 43,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2003,7 +2003,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2086,7 +2086,7 @@
         "rating": {
           "average": null
         },
-        "weight": 46,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2172,7 +2172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2262,7 +2262,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2348,7 +2348,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2367,18 +2367,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1769683502,
+        "updated": 1770017214,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526403",
-            "name": "01/30/2026"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534538",
             "name": "02/02/2026"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534539",
+            "name": "02/03/2026"
           }
         }
       }
@@ -2510,7 +2510,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -2748,7 +2748,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 261,
@@ -3095,7 +3095,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3172,7 +3172,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3255,7 +3255,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3506,7 +3506,7 @@
         "rating": {
           "average": null
         },
-        "weight": 14,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4795,7 +4795,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -4888,7 +4888,7 @@
         "rating": {
           "average": null
         },
-        "weight": 83,
+        "weight": 84,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4911,18 +4911,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1769137583,
+        "updated": 1769924136,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509936",
-            "name": "Aflevering 7203"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3509937",
             "name": "Aflevering 7204"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3509938",
+            "name": "Aflevering 7205"
           }
         }
       }
@@ -4981,7 +4981,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 103,

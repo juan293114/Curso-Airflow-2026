@@ -410,7 +410,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -499,7 +499,7 @@
         "rating": {
           "average": null
         },
-        "weight": 77,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -822,7 +822,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -841,7 +841,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/213/533674.jpg"
         },
         "summary": "<p><b>World Wonder Ring Stardom</b>, legal name Kabushiki Gaisha Stardom (\u682a\u5f0f\u4f1a\u793e\u30b9\u30bf\u30fc\u30c0\u30e0 Kabushiki Gaisha Sut\u0101damu) and often referred to simply as Stardom (stylized as STARD\u272aM),[2] is a Japanese joshi puroresu or women's professional wrestling promotion, founded in September 2010 by former Hyper Visual Fighting Arsion and JDStar promoter Rossy Ogawa, retired wrestler, model and mixed martial artist Fuka Kakimoto and veteran professional wrestler Nanae Takahashi. Stardom quickly became one of the top joshi puroresu promotions, largely thanks to gravure idol Yuzuki Aikawa becoming the promotion's public face.</p>",
-        "updated": 1767433735,
+        "updated": 1769968823,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42383"
@@ -849,6 +849,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3506652",
             "name": "Stardom New Year Stars 2026 in Korakuen"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3537573",
+            "name": "Stardom New Blood 28"
           }
         }
       }
@@ -909,7 +913,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 59,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -1073,7 +1077,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1159,7 +1163,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1248,7 +1252,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1341,7 +1345,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2314,7 +2318,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -2761,7 +2765,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 64,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2848,7 +2852,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2877,12 +2881,12 @@
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475361",
-            "name": "Herborg Kr\u00e5kevik \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475363",
+            "name": "Synne Vo \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475362",
-            "name": "Synne Vo \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475364",
+            "name": "Musti \u2013 del 1"
           }
         }
       }
@@ -3027,7 +3031,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -3056,12 +3060,12 @@
             "href": "https://api.tvmaze.com/shows/11502"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475361",
-            "name": "Herborg Kr\u00e5kevik \u2013 del 2"
+            "href": "https://api.tvmaze.com/episodes/3475363",
+            "name": "Synne Vo \u2013 del 2"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3475362",
-            "name": "Synne Vo \u2013 del 1"
+            "href": "https://api.tvmaze.com/episodes/3475364",
+            "name": "Musti \u2013 del 1"
           }
         }
       }

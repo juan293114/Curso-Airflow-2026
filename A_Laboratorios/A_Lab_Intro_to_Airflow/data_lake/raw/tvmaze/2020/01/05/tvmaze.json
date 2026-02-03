@@ -321,7 +321,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -411,7 +411,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -501,7 +501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -591,7 +591,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 56,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -681,7 +681,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 56,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -1786,7 +1786,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1872,7 +1872,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2151,7 +2151,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/268/670796.jpg"
         },
         "summary": null,
-        "updated": 1767515866,
+        "updated": 1769967943,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/49740"
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 155,

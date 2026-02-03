@@ -228,7 +228,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 56,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -319,7 +319,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 89,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -769,7 +769,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 60,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 377,
@@ -947,7 +947,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1034,7 +1034,7 @@
         "rating": {
           "average": null
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -1126,7 +1126,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -1282,7 +1282,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 321,
@@ -1301,7 +1301,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/213/533674.jpg"
         },
         "summary": "<p><b>World Wonder Ring Stardom</b>, legal name Kabushiki Gaisha Stardom (\u682a\u5f0f\u4f1a\u793e\u30b9\u30bf\u30fc\u30c0\u30e0 Kabushiki Gaisha Sut\u0101damu) and often referred to simply as Stardom (stylized as STARD\u272aM),[2] is a Japanese joshi puroresu or women's professional wrestling promotion, founded in September 2010 by former Hyper Visual Fighting Arsion and JDStar promoter Rossy Ogawa, retired wrestler, model and mixed martial artist Fuka Kakimoto and veteran professional wrestler Nanae Takahashi. Stardom quickly became one of the top joshi puroresu promotions, largely thanks to gravure idol Yuzuki Aikawa becoming the promotion's public face.</p>",
-        "updated": 1767433735,
+        "updated": 1769968823,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42383"
@@ -1309,6 +1309,10 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3506652",
             "name": "Stardom New Year Stars 2026 in Korakuen"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3537573",
+            "name": "Stardom New Blood 28"
           }
         }
       }
@@ -2055,7 +2059,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 81,
+        "weight": 82,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2243,7 +2247,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 44,
         "network": {
           "id": 263,
           "name": "TV Asahi",
@@ -2342,7 +2346,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 89,
+        "weight": 88,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2426,7 +2430,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 58,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -2593,7 +2597,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 197,
@@ -2681,7 +2685,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -2852,7 +2856,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 331,
