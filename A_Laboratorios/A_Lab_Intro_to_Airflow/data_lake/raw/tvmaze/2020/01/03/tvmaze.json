@@ -54,7 +54,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 92,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 281,
@@ -142,7 +142,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -320,7 +320,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 66,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1022,7 +1022,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1204,7 +1204,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 358,
@@ -1289,7 +1289,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1459,7 +1459,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 190,
@@ -1547,7 +1547,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1715,7 +1715,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1734,7 +1734,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1769988477,
+        "updated": 1770200527,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
@@ -2048,7 +2048,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -2135,7 +2135,7 @@
         "rating": {
           "average": 6.5
         },
-        "weight": 48,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -2217,7 +2217,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2302,7 +2302,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2387,7 +2387,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2472,7 +2472,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2557,7 +2557,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2642,7 +2642,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2727,7 +2727,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 92,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -2814,7 +2814,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 92,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -3253,12 +3253,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506652",
-            "name": "Stardom New Year Stars 2026 in Korakuen"
+            "href": "https://api.tvmaze.com/episodes/3537574",
+            "name": "Stardom New Blood 29"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537573",
-            "name": "Stardom New Blood 28"
+            "href": "https://api.tvmaze.com/episodes/3537575",
+            "name": "Stardom Supreme Fight in Osaka 2026"
           }
         }
       }
@@ -3902,7 +3902,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3995,7 +3995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4169,7 +4169,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4259,7 +4259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -4345,7 +4345,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4427,7 +4427,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4509,7 +4509,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4591,7 +4591,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4673,7 +4673,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4755,7 +4755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4926,7 +4926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5170,7 +5170,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 1,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5693,7 +5693,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 81,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -5793,7 +5793,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 81,
         "network": {
           "id": 1039,
           "name": "Disney Junior",
@@ -5884,7 +5884,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5966,7 +5966,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -6311,7 +6311,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6340,12 +6340,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -6399,7 +6399,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 15,

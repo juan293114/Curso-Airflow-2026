@@ -227,7 +227,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -316,7 +316,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -405,7 +405,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -494,7 +494,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -583,7 +583,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -672,7 +672,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -939,7 +939,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1026,7 +1026,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1113,7 +1113,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1200,7 +1200,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1287,7 +1287,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1374,7 +1374,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 91,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 26,
@@ -1552,7 +1552,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 88,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -1912,7 +1912,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 61,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 377,
@@ -2090,7 +2090,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2177,7 +2177,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2269,7 +2269,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -2347,7 +2347,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2528,12 +2528,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506652",
-            "name": "Stardom New Year Stars 2026 in Korakuen"
+            "href": "https://api.tvmaze.com/episodes/3537574",
+            "name": "Stardom New Blood 29"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537573",
-            "name": "Stardom New Blood 28"
+            "href": "https://api.tvmaze.com/episodes/3537575",
+            "name": "Stardom Supreme Fight in Osaka 2026"
           }
         }
       }
@@ -2590,7 +2590,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2609,14 +2609,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1769706458,
+        "updated": 1770139712,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3532244",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 206-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+            "href": "https://api.tvmaze.com/episodes/3538917",
+            "name": "\u0421\u0442\u044d\u043d\u0444\u043e\u0440\u0434, \u00abC\u043f\u0443\u0442\u043d\u0438\u043a\u00bb \u0438 \u0434\u0440\u0443\u0436\u0431\u0430 \u0441 \u0437\u044f\u0442\u0435\u043c \u0422\u0440\u0430\u043c\u043f\u0430: \u043a\u0430\u043a \u041a\u0438\u0440\u0438\u043b\u043b \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432 \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u0438\u043b \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441?"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532245",
@@ -3110,7 +3110,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3129,14 +3129,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499241.jpg"
         },
         "summary": "<p>Danny O'Dwyer is creating Video Game Documentaries. <b>Noclip</b> is a brand new type of gaming outlet focused on creating documentaries on your favorite upcoming games, childhood classics and more.</p>",
-        "updated": 1768334569,
+        "updated": 1770135766,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46108"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3522887",
-            "name": "The Making of Disco Elysium - Part Three: Writing"
+            "href": "https://api.tvmaze.com/episodes/3538915",
+            "name": "The Making of Disco Elysium - Part Four: Art"
           }
         }
       }
@@ -4025,7 +4025,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4372,14 +4372,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1769410863,
+        "updated": 1770125216,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3533152",
-            "name": "Perfect Communication"
+            "href": "https://api.tvmaze.com/episodes/3538873",
+            "name": "The Japanese Tradition: Business Cards"
           }
         }
       }
@@ -4440,7 +4440,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 82,
+        "weight": 81,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -4628,7 +4628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 43,
         "network": {
           "id": 263,
           "name": "TV Asahi",
@@ -4724,7 +4724,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 42,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -4896,7 +4896,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5156,7 +5156,7 @@
         "rating": {
           "average": null
         },
-        "weight": 74,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 331,

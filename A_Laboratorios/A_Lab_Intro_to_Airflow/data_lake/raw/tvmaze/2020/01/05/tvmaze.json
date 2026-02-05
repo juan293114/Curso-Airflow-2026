@@ -501,7 +501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2649,14 +2649,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1769410863,
+        "updated": 1770125216,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3533152",
-            "name": "Perfect Communication"
+            "href": "https://api.tvmaze.com/episodes/3538873",
+            "name": "The Japanese Tradition: Business Cards"
           }
         }
       }
@@ -2894,7 +2894,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 42,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,

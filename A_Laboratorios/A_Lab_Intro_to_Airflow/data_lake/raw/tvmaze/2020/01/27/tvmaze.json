@@ -130,7 +130,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -481,7 +481,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -570,7 +570,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -659,7 +659,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -748,7 +748,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -836,7 +836,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -920,7 +920,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -947,103 +947,6 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/1918717",
             "name": "Episode 24"
-          }
-        }
-      }
-    }
-  },
-  {
-    "id": 3534751,
-    "url": "https://www.tvmaze.com/episodes/3534751/city-of-impression-shenzhen-1x04-episode-4",
-    "name": "Episode 4",
-    "season": 1,
-    "number": 4,
-    "type": "regular",
-    "airdate": "2020-01-27",
-    "airtime": "",
-    "airstamp": "2020-01-27T04:00:00+00:00",
-    "runtime": 40,
-    "rating": {
-      "average": null
-    },
-    "image": null,
-    "summary": null,
-    "_links": {
-      "self": {
-        "href": "https://api.tvmaze.com/episodes/3534751"
-      },
-      "show": {
-        "href": "https://api.tvmaze.com/shows/90101",
-        "name": "City of Impression: Shenzhen"
-      }
-    },
-    "_embedded": {
-      "show": {
-        "id": 90101,
-        "url": "https://www.tvmaze.com/shows/90101/city-of-impression-shenzhen",
-        "name": "City of Impression: Shenzhen",
-        "type": "Documentary",
-        "language": "Chinese",
-        "genres": [],
-        "status": "Ended",
-        "runtime": 50,
-        "averageRuntime": null,
-        "premiered": "2019-10-22",
-        "ended": "2020-03-30",
-        "officialSite": null,
-        "schedule": {
-          "time": "",
-          "days": [
-            "Monday"
-          ]
-        },
-        "rating": {
-          "average": null
-        },
-        "weight": 56,
-        "network": {
-          "id": 1945,
-          "name": "Cartoon Network",
-          "country": {
-            "name": "Singapore",
-            "code": "SG",
-            "timezone": "Asia/Singapore"
-          },
-          "officialSite": null
-        },
-        "webChannel": {
-          "id": 400,
-          "name": "meWATCH",
-          "country": {
-            "name": "Singapore",
-            "code": "SG",
-            "timezone": "Asia/Singapore"
-          },
-          "officialSite": null
-        },
-        "dvdCountry": {
-          "name": "Singapore",
-          "code": "SG",
-          "timezone": "Asia/Singapore"
-        },
-        "externals": {
-          "tvrage": null,
-          "thetvdb": 373153,
-          "imdb": null
-        },
-        "image": {
-          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/611/1528204.jpg",
-          "original": "https://static.tvmaze.com/uploads/images/original_untouched/611/1528204.jpg"
-        },
-        "summary": "<p>Directed by Floza Su and starring <b>Alexander Rayshen Zhvanetsky-Zhang\uff08Ruishen Zhang\uff09</b>, <b>Lorance Bay</b>, <b>Phoenix Ferrero</b>, <b>Lydia She</b>, and <b>Sunnylay Li</b>, this urban documentary will be released on January 8, 2026 (originally scheduled for December 29, 2025). The film mainly records the rapid changes in Shenzhen and the struggles and growth of young people in the city.</p>",
-        "updated": 1769841996,
-        "_links": {
-          "self": {
-            "href": "https://api.tvmaze.com/shows/90101"
-          },
-          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534753",
-            "name": "Episode 6"
           }
         }
       }
@@ -1361,7 +1264,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1789,7 +1692,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 361,
@@ -1881,7 +1784,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2053,7 +1956,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2072,7 +1975,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1769988477,
+        "updated": 1770200527,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
@@ -2706,7 +2609,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2796,7 +2699,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2882,7 +2785,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2901,18 +2804,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770017214,
+        "updated": 1770112271,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534538",
-            "name": "02/02/2026"
+            "href": "https://api.tvmaze.com/episodes/3534540",
+            "name": "02/04/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534539",
-            "name": "02/03/2026"
+            "href": "https://api.tvmaze.com/episodes/3534541",
+            "name": "02/05/2026"
           }
         }
       }
@@ -2964,7 +2867,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2983,14 +2886,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1755166741,
+        "updated": 1770120085,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/2932899",
-            "name": "Blindfolded Dance Challenge"
+            "href": "https://api.tvmaze.com/episodes/3538733",
+            "name": "New Burger King Ultimate Steakhouse Whopper Taste Test"
           }
         }
       }
@@ -3046,7 +2949,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3126,7 +3029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4382,7 +4285,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -4549,7 +4452,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4632,7 +4535,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 22,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -4882,7 +4785,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -5052,7 +4955,7 @@
         "rating": {
           "average": null
         },
-        "weight": 35,
+        "weight": 41,
         "network": {
           "id": 205,
           "name": "NFL Network",
@@ -5081,12 +4984,12 @@
             "href": "https://api.tvmaze.com/shows/6441"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538081",
-            "name": "Memories"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3538082",
             "name": "Sights and Sounds of the Season"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3526573",
+            "name": "Super Bowl Recap"
           }
         }
       }
@@ -5609,7 +5512,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 91,
+        "weight": 90,
         "network": {
           "id": 755,
           "name": "Show TV",
@@ -5796,7 +5699,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 303,
@@ -5970,7 +5873,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -6055,7 +5958,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 35,
         "network": {
           "id": 1058,
           "name": "TV3",
@@ -6236,7 +6139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6265,12 +6168,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -6497,7 +6400,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -6600,7 +6503,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1770084633,
+        "updated": 1770089425,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"

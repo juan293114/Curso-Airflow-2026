@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -225,7 +225,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 66,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -494,7 +494,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -792,12 +792,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534449",
-            "name": "Klassebildet"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534450",
             "name": "Bare bruk KI"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534451",
+            "name": "V\u00e5r tur"
           }
         }
       }
@@ -941,7 +941,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1110,7 +1110,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 361,
@@ -1358,7 +1358,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1442,7 +1442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1526,7 +1526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1610,7 +1610,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1694,7 +1694,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1778,7 +1778,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1862,7 +1862,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -1965,12 +1965,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506652",
-            "name": "Stardom New Year Stars 2026 in Korakuen"
+            "href": "https://api.tvmaze.com/episodes/3537574",
+            "name": "Stardom New Blood 29"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537573",
-            "name": "Stardom New Blood 28"
+            "href": "https://api.tvmaze.com/episodes/3537575",
+            "name": "Stardom Supreme Fight in Osaka 2026"
           }
         }
       }
@@ -2292,7 +2292,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2385,7 +2385,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2655,7 +2655,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2745,7 +2745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2995,7 +2995,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -3157,7 +3157,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -3322,7 +3322,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 48,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 20,

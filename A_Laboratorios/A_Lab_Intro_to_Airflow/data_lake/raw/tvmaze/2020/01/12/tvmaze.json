@@ -406,7 +406,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 88,
+        "weight": 86,
         "network": null,
         "webChannel": {
           "id": 169,
@@ -1039,7 +1039,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -1220,12 +1220,12 @@
             "href": "https://api.tvmaze.com/shows/42383"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506652",
-            "name": "Stardom New Year Stars 2026 in Korakuen"
+            "href": "https://api.tvmaze.com/episodes/3537574",
+            "name": "Stardom New Blood 29"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537573",
-            "name": "Stardom New Blood 28"
+            "href": "https://api.tvmaze.com/episodes/3537575",
+            "name": "Stardom Supreme Fight in Osaka 2026"
           }
         }
       }
@@ -2157,14 +2157,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1769410863,
+        "updated": 1770125216,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3533152",
-            "name": "Perfect Communication"
+            "href": "https://api.tvmaze.com/episodes/3538873",
+            "name": "The Japanese Tradition: Business Cards"
           }
         }
       }
@@ -2225,7 +2225,7 @@
         "rating": {
           "average": 7.1
         },
-        "weight": 82,
+        "weight": 81,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2497,7 +2497,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 42,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2753,7 +2753,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 102,

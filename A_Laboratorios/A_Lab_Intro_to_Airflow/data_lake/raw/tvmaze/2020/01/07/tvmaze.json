@@ -139,7 +139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -229,7 +229,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 135,
@@ -580,7 +580,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -664,7 +664,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -837,7 +837,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1360,7 +1360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1448,7 +1448,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1536,7 +1536,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1624,7 +1624,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -1712,7 +1712,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 49,
         "network": null,
         "webChannel": {
           "id": 335,
@@ -2224,7 +2224,7 @@
         "rating": {
           "average": null
         },
-        "weight": 63,
+        "weight": 62,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2306,7 +2306,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 70,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2325,14 +2325,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115876.jpg"
         },
         "summary": "<p>Trailers that tell you the TRUTH about your favorite movies and TV shows: Honest Trailers. These are the hilarious trailers the producers don't want you to see...</p>",
-        "updated": 1769544961,
+        "updated": 1770160930,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13392"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3533914",
-            "name": "The Lord of the Rings: The Return of the King"
+            "href": "https://api.tvmaze.com/episodes/3539588",
+            "name": "Stranger Things: The Final Episodes"
           }
         }
       }
@@ -3599,7 +3599,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3618,14 +3618,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/357/894788.jpg"
         },
         "summary": "<p><b>Inside of You with Michael Rosenbaum</b> is a podcast, recorded series inside of the home of Michael Rosenbaum (Sorority Boys, Smallville). Listen as he invites celebrities, athletes, musicians, or anyone he finds interesting to sit next to on the couch, while he probes them for the most interesting stories they have.</p>",
-        "updated": 1769616810,
+        "updated": 1770128381,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/47944"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3533847",
-            "name": "How MADS MIKKELSEN & BRYAN FULLER Built Trust, Fear, and Beauty in DUST BUNNY"
+            "href": "https://api.tvmaze.com/episodes/3538907",
+            "name": "ED BEGLEY JR.: From Charles Manson Encounters to Carrie Fisher Friendships & His Hollywood Legacy"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3538908",
+            "name": "JAMEELA JAMIL"
           }
         }
       }
@@ -3767,7 +3771,7 @@
         "rating": {
           "average": null
         },
-        "weight": 40,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4094,7 +4098,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4113,14 +4117,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770015755,
+        "updated": 1770188850,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537960",
-            "name": "#2446 - Greg Fitzsimmons"
+            "href": "https://api.tvmaze.com/episodes/3539728",
+            "name": "#2447 - Mike Benz"
           }
         }
       }
@@ -4452,7 +4456,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -4720,7 +4724,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -4749,12 +4753,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -4893,7 +4897,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5061,7 +5065,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -5150,7 +5154,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 59,
         "network": {
           "id": 1,
           "name": "NBC",

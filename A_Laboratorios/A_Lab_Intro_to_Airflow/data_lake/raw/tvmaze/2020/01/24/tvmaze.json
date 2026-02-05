@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -135,7 +135,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 86,
+        "weight": 85,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -223,7 +223,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -400,7 +400,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -835,7 +835,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 46,
+        "weight": 83,
         "network": {
           "id": 1262,
           "name": "One31",
@@ -926,7 +926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 25,
         "network": null,
         "webChannel": {
           "id": 152,
@@ -1011,7 +1011,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1273,7 +1273,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1355,7 +1355,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 361,
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1537,7 +1537,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1628,7 +1628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1719,7 +1719,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1810,7 +1810,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1901,7 +1901,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1992,7 +1992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2083,7 +2083,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2174,7 +2174,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2265,7 +2265,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2356,7 +2356,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2447,7 +2447,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 64,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2535,7 +2535,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -3461,7 +3461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 72,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3480,7 +3480,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1769988477,
+        "updated": 1770200527,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
@@ -3714,7 +3714,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -3794,7 +3794,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 65,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3879,7 +3879,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -3964,7 +3964,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4049,7 +4049,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4134,7 +4134,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4219,7 +4219,7 @@
         "rating": {
           "average": null
         },
-        "weight": 62,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -5139,7 +5139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5158,18 +5158,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770017214,
+        "updated": 1770112271,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534538",
-            "name": "02/02/2026"
+            "href": "https://api.tvmaze.com/episodes/3534540",
+            "name": "02/04/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534539",
-            "name": "02/03/2026"
+            "href": "https://api.tvmaze.com/episodes/3534541",
+            "name": "02/05/2026"
           }
         }
       }
@@ -5221,7 +5221,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5240,14 +5240,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1755166741,
+        "updated": 1770120085,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/2932899",
-            "name": "Blindfolded Dance Challenge"
+            "href": "https://api.tvmaze.com/episodes/3538733",
+            "name": "New Burger King Ultimate Steakhouse Whopper Taste Test"
           }
         }
       }
@@ -5306,7 +5306,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 63,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5717,7 +5717,7 @@
         "rating": {
           "average": null
         },
-        "weight": 22,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5797,7 +5797,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6195,11 +6195,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6208,7 +6208,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6227,7 +6227,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -6280,11 +6280,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6293,7 +6293,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6312,7 +6312,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -6365,11 +6365,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6378,7 +6378,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6397,7 +6397,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -6450,11 +6450,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6463,7 +6463,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6482,7 +6482,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -6535,11 +6535,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6548,7 +6548,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6567,7 +6567,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -6620,11 +6620,11 @@
           "War",
           "History"
         ],
-        "status": "To Be Determined",
+        "status": "Ended",
         "runtime": null,
         "averageRuntime": 46,
         "premiered": "2020-01-24",
-        "ended": null,
+        "ended": "2022-12-29",
         "officialSite": "https://www.netflix.com/title/80990771",
         "schedule": {
           "time": "",
@@ -6633,7 +6633,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 94,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6652,7 +6652,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086936.jpg"
         },
         "summary": "<p>Using a blend of scripted and documentary elements, <b>Ottoman</b> tells the story of Mehmed II, aka Mehmed the Conqueror, 15th century reign of Ottoman ruler.</p>",
-        "updated": 1675609174,
+        "updated": 1770164581,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/45424"
@@ -7379,7 +7379,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 89,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -7466,7 +7466,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7553,7 +7553,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7640,7 +7640,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7727,7 +7727,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7814,7 +7814,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7901,7 +7901,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -7988,7 +7988,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8075,7 +8075,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8162,7 +8162,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8249,7 +8249,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8336,7 +8336,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8423,7 +8423,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8510,7 +8510,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8597,7 +8597,7 @@
         "rating": {
           "average": null
         },
-        "weight": 45,
+        "weight": 59,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -8684,7 +8684,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -9259,7 +9259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9498,7 +9498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9517,14 +9517,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1514399.jpg"
         },
         "summary": "<p>Join Shayne Topp (short), Amanda Lehan-Canto (tall), and a rotating Smosh friend as we discuss what's on our minds, what we've found on the internet, and other dumb ideas we're cooking up.</p>",
-        "updated": 1768891824,
+        "updated": 1770125647,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/89347"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3528457",
-            "name": "Never Have I Ever w/ Angela & Chanse"
+            "href": "https://api.tvmaze.com/episodes/3538886",
+            "name": "We Try Speaking Other Languages"
           }
         }
       }
@@ -9757,7 +9757,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -9844,7 +9844,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 56,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -10115,7 +10115,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -10290,7 +10290,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10377,7 +10377,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10464,7 +10464,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10551,7 +10551,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10638,7 +10638,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10725,7 +10725,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10812,7 +10812,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10899,7 +10899,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 93,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -11079,7 +11079,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11168,7 +11168,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11508,7 +11508,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -11537,12 +11537,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -11602,7 +11602,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 91,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -11802,7 +11802,7 @@
         "rating": {
           "average": 7.4
         },
-        "weight": 92,
+        "weight": 93,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -11895,7 +11895,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 15,

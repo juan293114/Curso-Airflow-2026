@@ -582,7 +582,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -668,7 +668,7 @@
         "rating": {
           "average": null
         },
-        "weight": 8,
+        "weight": 11,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -786,12 +786,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534449",
-            "name": "Klassebildet"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534450",
             "name": "Bare bruk KI"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534451",
+            "name": "V\u00e5r tur"
           }
         }
       }
@@ -848,7 +848,7 @@
         "rating": {
           "average": null
         },
-        "weight": 38,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -938,7 +938,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1023,7 +1023,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1375,7 +1375,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1729,7 +1729,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3219,7 +3219,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3302,7 +3302,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3385,7 +3385,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3468,7 +3468,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3551,7 +3551,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3634,7 +3634,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 88,
+        "weight": 89,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4250,7 +4250,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 51,
+        "weight": 50,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4744,7 +4744,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -4824,7 +4824,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4843,14 +4843,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770015755,
+        "updated": 1770188850,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537960",
-            "name": "#2446 - Greg Fitzsimmons"
+            "href": "https://api.tvmaze.com/episodes/3539728",
+            "name": "#2447 - Mike Benz"
           }
         }
       }
@@ -5287,7 +5287,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5371,7 +5371,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 29,
         "network": null,
         "webChannel": {
           "id": 189,
@@ -5549,7 +5549,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5578,12 +5578,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -5745,18 +5745,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485132.jpg"
         },
         "summary": "<p>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on <b>WWE NXT</b><i>,</i> a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</p>",
-        "updated": 1769569168,
+        "updated": 1770172204,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481742",
-            "name": "The participants for next week's NXT Ladder Match Championship face off in the ring"
+            "href": "https://api.tvmaze.com/episodes/3481743",
+            "name": "Main Event: NXT Championship Ladder Match"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481743",
-            "name": "Episode 5"
+            "href": "https://api.tvmaze.com/episodes/3481744",
+            "name": "Episode 6"
           }
         }
       }
@@ -5918,7 +5918,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 59,
         "network": {
           "id": 1,
           "name": "NBC",

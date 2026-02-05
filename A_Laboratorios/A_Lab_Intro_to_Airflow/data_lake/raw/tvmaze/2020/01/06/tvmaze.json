@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 25,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -215,7 +215,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 81,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -391,7 +391,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -480,7 +480,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -569,7 +569,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -657,7 +657,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -741,7 +741,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1346,7 +1346,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1520,7 +1520,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1782,7 +1782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2452,7 +2452,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4231,7 +4231,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -4578,7 +4578,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/522/1306697.jpg"
         },
         "summary": "<p>Weekly, comedian best friends Tom Segura and Bert Kreischer get together in the bear cave at YMH Studios to do what bears do: make each other laugh.</p>",
-        "updated": 1768287992,
+        "updated": 1770212591,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/77660"
@@ -4639,7 +4639,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4658,14 +4658,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770015755,
+        "updated": 1770188850,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537960",
-            "name": "#2446 - Greg Fitzsimmons"
+            "href": "https://api.tvmaze.com/episodes/3539728",
+            "name": "#2447 - Mike Benz"
           }
         }
       }
@@ -5093,7 +5093,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 57,
         "network": null,
         "webChannel": {
           "id": 105,
@@ -5351,7 +5351,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5434,7 +5434,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -5697,7 +5697,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -5726,12 +5726,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -5956,7 +5956,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -6059,7 +6059,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1770084633,
+        "updated": 1770089425,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
@@ -6132,7 +6132,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 59,
         "network": {
           "id": 1,
           "name": "NBC",

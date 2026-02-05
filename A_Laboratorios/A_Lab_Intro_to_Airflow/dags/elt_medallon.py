@@ -14,7 +14,8 @@ from elt.bronze import copy_raw_to_bronze
 from elt.silver import transform_bronze_to_silver 
 from elt.dim_time import build_dim_time  
 from elt.dim_shows import build_dim_shows  
-from elt.dim_networks import build_dim_networks          
+from elt.dim_networks import build_dim_networks
+from elt.fact_episodes import build_fact_episodes          
 
 BOGOTA_TZ = pendulum.timezone("America/Bogota")
 
@@ -34,6 +35,10 @@ DIM_TIME_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "time.parquet"
 DIM_SHOW_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "show.parquet"
 #Dim Network
 DIM_NETWORK_PATH = DATA_LAKE_ROOT / "gold" / "dimensions" / "network.parquet"
+
+#Fact episdodes
+FACT_EPISODES_PATH = DATA_LAKE_ROOT / "gold" / "facts" / "episodes.parquet"
+
 
 INGEST_PARAMS = {
     "start_date": pendulum.date(2020, 1, 1),
@@ -65,6 +70,11 @@ DIM_SHOW_PARAMS ={
 DIM_NETWORK_PARAMS ={
     "silver_path": str(SILVER_PATH / "tvmaze_silver.parquet"),
     "output_path": str(DIM_NETWORK_PATH),
+}
+
+EPISODES_PARAMS ={
+    "silver_path": str(SILVER_PATH / "tvmaze_silver.parquet"),
+    "output_path": str(FACT_EPISODES_PATH),
 }
 
 with DAG(
@@ -111,4 +121,10 @@ with DAG(
         op_kwargs=DIM_NETWORK_PARAMS,
     )
 
-    ingest_task >> bronze_task >> silver_task >> [time_task, show_task, network_task]   
+    episodes_task = PythonOperator(
+        task_id="fact_episodes",
+        python_callable=build_fact_episodes,
+        op_kwargs=EPISODES_PARAMS,
+    )
+
+    ingest_task >> bronze_task >> silver_task >> [time_task, show_task, network_task] >> episodes_task   

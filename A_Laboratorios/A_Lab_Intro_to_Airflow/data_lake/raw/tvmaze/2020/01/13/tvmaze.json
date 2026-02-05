@@ -230,7 +230,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -319,7 +319,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -408,7 +408,7 @@
         "rating": {
           "average": null
         },
-        "weight": 49,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -496,7 +496,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -580,7 +580,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -1533,7 +1533,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1875,7 +1875,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 361,
@@ -1967,7 +1967,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2716,7 +2716,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2806,7 +2806,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2896,7 +2896,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2986,7 +2986,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3076,7 +3076,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3166,7 +3166,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3256,7 +3256,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3346,7 +3346,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 70,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -3435,7 +3435,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3454,18 +3454,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770017214,
+        "updated": 1770112271,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534538",
-            "name": "02/02/2026"
+            "href": "https://api.tvmaze.com/episodes/3534540",
+            "name": "02/04/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534539",
-            "name": "02/03/2026"
+            "href": "https://api.tvmaze.com/episodes/3534541",
+            "name": "02/05/2026"
           }
         }
       }
@@ -3517,7 +3517,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3536,14 +3536,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1755166741,
+        "updated": 1770120085,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/2932899",
-            "name": "Blindfolded Dance Challenge"
+            "href": "https://api.tvmaze.com/episodes/3538733",
+            "name": "New Burger King Ultimate Steakhouse Whopper Taste Test"
           }
         }
       }
@@ -3603,7 +3603,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3689,7 +3689,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3775,7 +3775,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3861,7 +3861,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3947,7 +3947,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4033,7 +4033,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4119,7 +4119,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4205,7 +4205,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 46,
+        "weight": 61,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4287,7 +4287,7 @@
         "rating": {
           "average": null
         },
-        "weight": 33,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4367,7 +4367,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5189,7 +5189,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -5267,7 +5267,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5286,14 +5286,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499241.jpg"
         },
         "summary": "<p>Danny O'Dwyer is creating Video Game Documentaries. <b>Noclip</b> is a brand new type of gaming outlet focused on creating documentaries on your favorite upcoming games, childhood classics and more.</p>",
-        "updated": 1768334569,
+        "updated": 1770135766,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46108"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3522887",
-            "name": "The Making of Disco Elysium - Part Three: Writing"
+            "href": "https://api.tvmaze.com/episodes/3538915",
+            "name": "The Making of Disco Elysium - Part Four: Art"
           }
         }
       }
@@ -5591,7 +5591,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -5755,7 +5755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 38,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -6475,7 +6475,7 @@
         "rating": {
           "average": 7.2
         },
-        "weight": 91,
+        "weight": 90,
         "network": {
           "id": 755,
           "name": "Show TV",
@@ -6655,7 +6655,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -6832,7 +6832,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -6861,12 +6861,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -7002,7 +7002,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 42,
         "network": null,
         "webChannel": {
           "id": 301,
@@ -7105,7 +7105,7 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1377130.jpg"
         },
         "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-        "updated": 1770084633,
+        "updated": 1770089425,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/802"
@@ -7178,7 +7178,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 85,
+        "weight": 59,
         "network": {
           "id": 1,
           "name": "NBC",

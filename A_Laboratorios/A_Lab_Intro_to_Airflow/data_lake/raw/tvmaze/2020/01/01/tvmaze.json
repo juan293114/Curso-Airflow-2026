@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 423,
@@ -1608,7 +1608,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 58,
         "network": null,
         "webChannel": {
           "id": 67,
@@ -2816,7 +2816,7 @@
         "rating": {
           "average": null
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2901,7 +2901,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 73,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -3430,7 +3430,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -3516,7 +3516,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 80,
+        "weight": 83,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3679,7 +3679,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3764,7 +3764,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3849,7 +3849,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -3934,7 +3934,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4019,7 +4019,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4104,7 +4104,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4189,7 +4189,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4274,7 +4274,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4359,7 +4359,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4444,7 +4444,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 88,
+        "weight": 90,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4686,7 +4686,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4770,7 +4770,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4854,7 +4854,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4938,7 +4938,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5022,7 +5022,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5106,7 +5106,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5190,7 +5190,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5274,7 +5274,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5358,7 +5358,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5442,7 +5442,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 81,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6616,7 +6616,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6635,14 +6635,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499241.jpg"
         },
         "summary": "<p>Danny O'Dwyer is creating Video Game Documentaries. <b>Noclip</b> is a brand new type of gaming outlet focused on creating documentaries on your favorite upcoming games, childhood classics and more.</p>",
-        "updated": 1768334569,
+        "updated": 1770135766,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/46108"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3522887",
-            "name": "The Making of Disco Elysium - Part Three: Writing"
+            "href": "https://api.tvmaze.com/episodes/3538915",
+            "name": "The Making of Disco Elysium - Part Four: Art"
           }
         }
       }
@@ -7120,7 +7120,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7360,7 +7360,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -7442,7 +7442,7 @@
         "rating": {
           "average": null
         },
-        "weight": 3,
+        "weight": 1,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8592,7 +8592,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -9370,7 +9370,7 @@
         "rating": {
           "average": null
         },
-        "weight": 84,
+        "weight": 85,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9399,12 +9399,12 @@
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509937",
-            "name": "Aflevering 7204"
+            "href": "https://api.tvmaze.com/episodes/3509939",
+            "name": "Aflevering 7206"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509938",
-            "name": "Aflevering 7205"
+            "href": "https://api.tvmaze.com/episodes/3509940",
+            "name": "Aflevering 7207"
           }
         }
       }
@@ -9741,18 +9741,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485132.jpg"
         },
         "summary": "<p>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on <b>WWE NXT</b><i>,</i> a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</p>",
-        "updated": 1769569168,
+        "updated": 1770172204,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2266"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481742",
-            "name": "The participants for next week's NXT Ladder Match Championship face off in the ring"
+            "href": "https://api.tvmaze.com/episodes/3481743",
+            "name": "Main Event: NXT Championship Ladder Match"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3481743",
-            "name": "Episode 5"
+            "href": "https://api.tvmaze.com/episodes/3481744",
+            "name": "Episode 6"
           }
         }
       }
@@ -10626,7 +10626,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 188,
@@ -10707,7 +10707,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 188,
@@ -10788,7 +10788,7 @@
         "rating": {
           "average": null
         },
-        "weight": 4,
+        "weight": 8,
         "network": null,
         "webChannel": {
           "id": 188,

@@ -869,7 +869,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 66,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -1338,7 +1338,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1456,12 +1456,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534449",
-            "name": "Klassebildet"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534450",
             "name": "Bare bruk KI"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534451",
+            "name": "V\u00e5r tur"
           }
         }
       }
@@ -1755,7 +1755,7 @@
         "rating": {
           "average": null
         },
-        "weight": 82,
+        "weight": 81,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -1774,14 +1774,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1769706458,
+        "updated": 1770139712,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3532244",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 206-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+            "href": "https://api.tvmaze.com/episodes/3538917",
+            "name": "\u0421\u0442\u044d\u043d\u0444\u043e\u0440\u0434, \u00abC\u043f\u0443\u0442\u043d\u0438\u043a\u00bb \u0438 \u0434\u0440\u0443\u0436\u0431\u0430 \u0441 \u0437\u044f\u0442\u0435\u043c \u0422\u0440\u0430\u043c\u043f\u0430: \u043a\u0430\u043a \u041a\u0438\u0440\u0438\u043b\u043b \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432 \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u0438\u043b \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441?"
           },
           "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3532245",
@@ -1935,7 +1935,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2028,7 +2028,7 @@
         "rating": {
           "average": null
         },
-        "weight": 39,
+        "weight": 53,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -2462,7 +2462,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -2782,7 +2782,7 @@
         "rating": {
           "average": null
         },
-        "weight": 9,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2801,14 +2801,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770015755,
+        "updated": 1770188850,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537960",
-            "name": "#2446 - Greg Fitzsimmons"
+            "href": "https://api.tvmaze.com/episodes/3539728",
+            "name": "#2447 - Mike Benz"
           }
         }
       }
@@ -2866,7 +2866,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 92,
+        "weight": 93,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2963,7 +2963,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 92,
+        "weight": 93,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -3064,7 +3064,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 48,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -3144,7 +3144,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 69,
         "network": {
           "id": 2,
           "name": "CBS",

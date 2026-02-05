@@ -406,7 +406,7 @@
         "rating": {
           "average": null
         },
-        "weight": 70,
+        "weight": 76,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -524,12 +524,12 @@
             "href": "https://api.tvmaze.com/shows/55919"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534449",
-            "name": "Klassebildet"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3534450",
             "name": "Bare bruk KI"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3534451",
+            "name": "V\u00e5r tur"
           }
         }
       }
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 319,
@@ -1526,7 +1526,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 319,
@@ -1690,7 +1690,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 24,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -1931,7 +1931,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 92,
+        "weight": 93,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2028,7 +2028,7 @@
         "rating": {
           "average": 6.8
         },
-        "weight": 92,
+        "weight": 93,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -2129,7 +2129,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 48,
+        "weight": 64,
         "network": null,
         "webChannel": {
           "id": 20,
@@ -2209,7 +2209,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 69,
         "network": {
           "id": 2,
           "name": "CBS",
@@ -2654,7 +2654,7 @@
         "rating": {
           "average": 7.7
         },
-        "weight": 92,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 265,
