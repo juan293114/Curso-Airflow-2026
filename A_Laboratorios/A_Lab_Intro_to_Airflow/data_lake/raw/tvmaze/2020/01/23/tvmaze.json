@@ -130,7 +130,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -218,7 +218,7 @@
         "rating": {
           "average": null
         },
-        "weight": 52,
+        "weight": 35,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -305,7 +305,7 @@
         "rating": {
           "average": null
         },
-        "weight": 26,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -390,7 +390,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 25,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -479,7 +479,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -568,7 +568,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -657,7 +657,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 48,
         "network": null,
         "webChannel": {
           "id": 118,
@@ -833,7 +833,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 74,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -917,7 +917,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1004,7 +1004,7 @@
         "rating": {
           "average": null
         },
-        "weight": 54,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -1088,7 +1088,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1175,7 +1175,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1262,7 +1262,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1349,7 +1349,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -1436,7 +1436,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 238,
@@ -2390,7 +2390,7 @@
         "rating": {
           "average": null
         },
-        "weight": 42,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 293,
@@ -2474,7 +2474,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 35,
         "network": {
           "id": 155,
           "name": "SVT1",
@@ -2652,7 +2652,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -2831,7 +2831,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -2919,7 +2919,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -3028,18 +3028,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/379/948363.jpg"
         },
         "summary": "<p>Voice actor Matthew Mercer leads a group of fellow voice actors on epic Dungeons &amp; Dragons campaigns. These familiar voices bring the audience into the full experience of D&amp;D, allowing imaginations to soar as the characters embark on adventures. This is <b>Critical Role</b>!</p>",
-        "updated": 1769760445,
+        "updated": 1770367051,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/13215"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526391",
-            "name": "Seeking Sanctuary"
+            "href": "https://api.tvmaze.com/episodes/3526392",
+            "name": "A Bridge Too Far"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3526392",
-            "name": "Episode 14"
+            "href": "https://api.tvmaze.com/episodes/3526393",
+            "name": "Episode 15"
           }
         }
       }
@@ -3340,7 +3340,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3948,7 +3948,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 16,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4033,7 +4033,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4118,7 +4118,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4203,7 +4203,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4288,7 +4288,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4373,7 +4373,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4458,7 +4458,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4543,7 +4543,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4628,7 +4628,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4713,7 +4713,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4798,7 +4798,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 81,
+        "weight": 92,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5115,7 +5115,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5134,18 +5134,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770112271,
+        "updated": 1770540449,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534540",
-            "name": "02/04/2026"
+            "href": "https://api.tvmaze.com/episodes/3538641",
+            "name": "02/11/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534541",
-            "name": "02/05/2026"
+            "href": "https://api.tvmaze.com/episodes/3538642",
+            "name": "02/12/2026"
           }
         }
       }
@@ -5197,7 +5197,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5216,14 +5216,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770120085,
+        "updated": 1770794131,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538733",
-            "name": "New Burger King Ultimate Steakhouse Whopper Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3546246",
+            "name": "Don't Break The Egg!"
           }
         }
       }
@@ -5284,7 +5284,7 @@
         "rating": {
           "average": 7.8
         },
-        "weight": 98,
+        "weight": 99,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -5445,7 +5445,7 @@
         "rating": {
           "average": null
         },
-        "weight": 81,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5464,18 +5464,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511597.jpg"
         },
         "summary": "<p>The author's journalistic program of Alexey Pivovarov, where he asks questions and interviews guests, makes reports on actual themes, as well as on entertaining topics.</p>",
-        "updated": 1770139712,
+        "updated": 1770745265,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/42899"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538917",
-            "name": "\u0421\u0442\u044d\u043d\u0444\u043e\u0440\u0434, \u00abC\u043f\u0443\u0442\u043d\u0438\u043a\u00bb \u0438 \u0434\u0440\u0443\u0436\u0431\u0430 \u0441 \u0437\u044f\u0442\u0435\u043c \u0422\u0440\u0430\u043c\u043f\u0430: \u043a\u0430\u043a \u041a\u0438\u0440\u0438\u043b\u043b \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432 \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u0438\u043b \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043d\u044b\u0439 \u043f\u0440\u043e\u0446\u0435\u0441\u0441?"
+            "href": "https://api.tvmaze.com/episodes/3546047",
+            "name": "\u041a\u0430\u043a \u0432 \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u0432\u0441\u043a\u0440\u044b\u043b\u0438 \u0442\u0435\u043d\u0435\u0432\u043e\u0439 \u0431\u0438\u0437\u043d\u0435\u0441 \u043f\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0435 \u043e\u0440\u0433\u0430\u043d\u043e\u0432"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3532245",
-            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 207-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
+            "href": "https://api.tvmaze.com/episodes/3532246",
+            "name": "\u0420\u0435\u0434\u0430\u043a\u0446\u0438\u044f. News: 208-\u044f \u043d\u0435\u0434\u0435\u043b\u044f"
           }
         }
       }
@@ -5531,7 +5531,7 @@
         "rating": {
           "average": null
         },
-        "weight": 27,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5616,7 +5616,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5701,7 +5701,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5786,7 +5786,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5871,7 +5871,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5956,7 +5956,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6041,7 +6041,7 @@
         "rating": {
           "average": null
         },
-        "weight": 59,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -6130,7 +6130,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -6223,7 +6223,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 39,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -6313,7 +6313,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -6403,7 +6403,7 @@
         "rating": {
           "average": 8
         },
-        "weight": 55,
+        "weight": 54,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -6491,7 +6491,7 @@
         "rating": {
           "average": null
         },
-        "weight": 18,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6819,7 +6819,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 88,
@@ -6905,7 +6905,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -6983,7 +6983,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 444,
@@ -7067,7 +7067,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -7153,7 +7153,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7172,14 +7172,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/311/778013.jpg"
         },
         "summary": "<p>A satirical political program dealing with political events in the world with sarcastic.</p>",
-        "updated": 1765741844,
+        "updated": 1770369156,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/54744"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3474522",
-            "name": "\u0627\u0644\u0633\u0644\u064a\u0637 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a 2025 | \u0627\u0644\u0633\u0644\u064a\u0637 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a \u064a\u0648\u062f\u0639\u0643\u0645 \u0628\u0627\u0644\u0631\u062f \u0639\u0644\u0649 \u062a\u0639\u0644\u064a\u0642\u0627\u062a\u0643\u0645.. \u0644\u0646\u0627 \u0644\u0642\u0627\u0621 \u0622\u062e\u0631"
+            "href": "https://api.tvmaze.com/episodes/3541102",
+            "name": "\u0627\u0644\u0633\u0644\u064a\u0637 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a 2026 | \u0645\u0627 \u0647\u064a \u062c\u0632\u064a\u0631\u0629 \u0625\u0628\u0633\u062a\u064a\u0646\u061f \u0648\u0647\u0644 \u062a\u0645\u062a\u0644\u0643 \u0625\u064a\u0631\u0627\u0646 \u0633\u0644\u0627\u062d\u0627\u064b \u0633\u0631\u064a\u0627\u064b\u061f"
           }
         }
       }
@@ -7237,7 +7237,7 @@
         "rating": {
           "average": null
         },
-        "weight": 90,
+        "weight": 88,
         "network": null,
         "webChannel": {
           "id": 311,
@@ -7262,10 +7262,6 @@
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3518905",
-            "name": "A Hugi Minute"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3518906",
             "name": "TBA"
           }
@@ -7407,7 +7403,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7484,7 +7480,7 @@
         "rating": {
           "average": null
         },
-        "weight": 50,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 540,
@@ -7651,7 +7647,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 30,
         "network": null,
         "webChannel": {
           "id": 173,
@@ -7813,7 +7809,7 @@
         "rating": {
           "average": null
         },
-        "weight": 44,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7832,14 +7828,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1387399.jpg"
         },
         "summary": "<p>Joe Rogan hosts long form conversations with friends and guests that include comedians, actors, musicians, MMA instructors and commentators, authors and artists.</p>",
-        "updated": 1770188850,
+        "updated": 1770794549,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82463"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3539728",
-            "name": "#2447 - Mike Benz"
+            "href": "https://api.tvmaze.com/episodes/3546256",
+            "name": "#2451 - Cheryl Hines"
           }
         }
       }
@@ -7926,6 +7922,88 @@
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3168645",
             "name": "Modern Age"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 3545222,
+    "url": "https://www.tvmaze.com/episodes/3545222/kill-tony-2020-01-23-432-calgary",
+    "name": "#432 - CALGARY",
+    "season": 2020,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2020-01-23",
+    "airtime": "",
+    "airstamp": "2020-01-23T12:00:00+00:00",
+    "runtime": null,
+    "rating": {
+      "average": null
+    },
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/episodes/3545222"
+      },
+      "show": {
+        "href": "https://api.tvmaze.com/shows/90266",
+        "name": "Kill Tony"
+      }
+    },
+    "_embedded": {
+      "show": {
+        "id": 90266,
+        "url": "https://www.tvmaze.com/shows/90266/kill-tony",
+        "name": "Kill Tony",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+          "Comedy"
+        ],
+        "status": "Running",
+        "runtime": null,
+        "averageRuntime": null,
+        "premiered": "2013-06-18",
+        "ended": null,
+        "officialSite": "https://www.youtube.com/channel/UCwzCMiicL-hBUzyjWiJaseg",
+        "schedule": {
+          "time": "",
+          "days": [
+            "Monday"
+          ]
+        },
+        "rating": {
+          "average": null
+        },
+        "weight": 56,
+        "network": null,
+        "webChannel": {
+          "id": 21,
+          "name": "YouTube",
+          "country": null,
+          "officialSite": "https://www.youtube.com"
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 416372,
+          "imdb": "tt11457418"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/613/1532749.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1532749.jpg"
+        },
+        "summary": "<p><b>Kill Tony</b>, a live podcast taped in Austin, Texas and all over the world. Aspiring comedians are randomly drawn from a bucket to perform a one-minute set, followed immediately by an interview and feedback from Tony Hinchcliffe, Brian Redban, and celebrity guests.</p>",
+        "updated": 1770806017,
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/shows/90266"
+          },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3546045",
+            "name": "#755 - DR PHIL (ADAM RAY) + SAL VULCANO, + GREG FITZSIMMONS"
           }
         }
       }
@@ -8264,7 +8342,7 @@
         "rating": {
           "average": null
         },
-        "weight": 73,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 15,
@@ -8344,7 +8422,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 69,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -8508,7 +8586,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 65,
         "network": null,
         "webChannel": {
           "id": 189,
@@ -8595,7 +8673,7 @@
         "rating": {
           "average": 6.2
         },
-        "weight": 87,
+        "weight": 95,
         "network": null,
         "webChannel": {
           "id": 107,
@@ -8682,7 +8760,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -8769,7 +8847,7 @@
         "rating": {
           "average": null
         },
-        "weight": 47,
+        "weight": 31,
         "network": null,
         "webChannel": {
           "id": 303,
@@ -8860,7 +8938,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 86,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 213,
@@ -8951,7 +9029,7 @@
         "rating": {
           "average": 5.6
         },
-        "weight": 86,
+        "weight": 93,
         "network": null,
         "webChannel": {
           "id": 213,
@@ -9127,7 +9205,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 71,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -9215,7 +9293,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -9308,7 +9386,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 84,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -9331,18 +9409,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1769924136,
+        "updated": 1770446750,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509939",
-            "name": "Aflevering 7206"
+            "href": "https://api.tvmaze.com/episodes/3509943",
+            "name": "Aflevering 7210"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509940",
-            "name": "Aflevering 7207"
+            "href": "https://api.tvmaze.com/episodes/3509944",
+            "name": "Aflevering 7211"
           }
         }
       }
@@ -9481,7 +9559,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 67,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -9569,7 +9647,7 @@
         "rating": {
           "average": 6.9
         },
-        "weight": 59,
+        "weight": 44,
         "network": {
           "id": 1,
           "name": "NBC",

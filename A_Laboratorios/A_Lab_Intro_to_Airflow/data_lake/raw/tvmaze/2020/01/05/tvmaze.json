@@ -51,7 +51,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 36,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -321,7 +321,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -411,7 +411,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 19,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -501,7 +501,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -767,7 +767,7 @@
         "rating": {
           "average": null
         },
-        "weight": 57,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 64,
@@ -857,7 +857,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 327,
@@ -947,7 +947,7 @@
         "rating": {
           "average": null
         },
-        "weight": 41,
+        "weight": 55,
         "network": null,
         "webChannel": {
           "id": 12,
@@ -1029,7 +1029,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -2132,7 +2132,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 408,
@@ -2157,12 +2157,12 @@
             "href": "https://api.tvmaze.com/shows/49740"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3506542",
-            "name": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament - Day 3"
-          },
-          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3506552",
             "name": "TJPW Shoko Nakajima's Niigata Homecoming Performance \"Shoko Quest IV: Those Guided by the Snow Country\""
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3506553",
+            "name": "TJPW The 6th \"Futari wa Princess\" Max Heart Tournament - Day 4"
           }
         }
       }
@@ -2385,7 +2385,7 @@
         "rating": {
           "average": null
         },
-        "weight": 24,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -2649,14 +2649,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/554/1385791.jpg"
         },
         "summary": "<p>From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <b>Holo no Graffiti</b> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.</p>",
-        "updated": 1770125216,
+        "updated": 1770635642,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/82397"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538873",
-            "name": "The Japanese Tradition: Business Cards"
+            "href": "https://api.tvmaze.com/episodes/3544464",
+            "name": "One More Toast"
           }
         }
       }
@@ -2894,7 +2894,7 @@
         "rating": {
           "average": 6
         },
-        "weight": 57,
+        "weight": 80,
         "network": null,
         "webChannel": {
           "id": 265,
@@ -2982,7 +2982,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 32,
         "network": null,
         "webChannel": {
           "id": 155,
@@ -3066,7 +3066,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 102,
@@ -3089,14 +3089,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/59/148015.jpg"
         },
         "summary": "<p>Your first podcast of the week is the last word in tech. Join the top tech pundits in a roundtable discussion of the latest trends in high tech. Hosted by Leo Laporte and friends.</p>",
-        "updated": 1761028855,
+        "updated": 1770637806,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/17584"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3402839",
-            "name": "Nine Days a Week"
+            "href": "https://api.tvmaze.com/episodes/3544570",
+            "name": "In My Head I Have 3 Buckets"
           }
         }
       }

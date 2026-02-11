@@ -47,7 +47,7 @@
         "rating": {
           "average": null
         },
-        "weight": 36,
+        "weight": 34,
         "network": null,
         "webChannel": {
           "id": 56,
@@ -135,7 +135,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 85,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 366,
@@ -312,7 +312,7 @@
         "rating": {
           "average": null
         },
-        "weight": 30,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 51,
@@ -400,7 +400,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 66,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -574,7 +574,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 122,
@@ -745,7 +745,7 @@
         "rating": {
           "average": null
         },
-        "weight": 79,
+        "weight": 78,
         "network": null,
         "webChannel": {
           "id": 104,
@@ -835,7 +835,7 @@
         "rating": {
           "average": 7.6
         },
-        "weight": 83,
+        "weight": 88,
         "network": {
           "id": 1262,
           "name": "One31",
@@ -926,7 +926,7 @@
         "rating": {
           "average": null
         },
-        "weight": 25,
+        "weight": 13,
         "network": null,
         "webChannel": {
           "id": 152,
@@ -1011,7 +1011,7 @@
         "rating": {
           "average": 7.9
         },
-        "weight": 81,
+        "weight": 47,
         "network": null,
         "webChannel": {
           "id": 30,
@@ -1273,7 +1273,7 @@
         "rating": {
           "average": null
         },
-        "weight": 78,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 160,
@@ -1446,7 +1446,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1537,7 +1537,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1628,7 +1628,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1719,7 +1719,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1810,7 +1810,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1901,7 +1901,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -1992,7 +1992,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2083,7 +2083,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2174,7 +2174,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2265,7 +2265,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2356,7 +2356,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -2447,7 +2447,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 47,
         "network": {
           "id": 109,
           "name": "ZDF",
@@ -3461,7 +3461,7 @@
         "rating": {
           "average": null
         },
-        "weight": 71,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3480,14 +3480,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1168089.jpg"
         },
         "summary": "<p><b>The Annoying Orange</b> is an American comedy web series created by Dane Boedigheimer in 2009. It stars Boedigheimer as an anthropomorphic orange who annoys other fruits, vegetables, and various other objects by using crude-humored jokes.</p>",
-        "updated": 1770200527,
+        "updated": 1770642423,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/12060"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3537802",
-            "name": "CHICKY NUGS (ORIGINAL SONG)"
+            "href": "https://api.tvmaze.com/episodes/3544605",
+            "name": "Annoying Orange Volcano!"
           }
         }
       }
@@ -3714,7 +3714,7 @@
         "rating": {
           "average": null
         },
-        "weight": 69,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 310,
@@ -3794,7 +3794,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 64,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -3879,7 +3879,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -3964,7 +3964,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4049,7 +4049,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4134,7 +4134,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4219,7 +4219,7 @@
         "rating": {
           "average": null
         },
-        "weight": 61,
+        "weight": 40,
         "network": null,
         "webChannel": {
           "id": 3,
@@ -4297,7 +4297,7 @@
         "rating": {
           "average": null
         },
-        "weight": 16,
+        "weight": 46,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -4382,7 +4382,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4467,7 +4467,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4552,7 +4552,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4637,7 +4637,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4722,7 +4722,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4807,7 +4807,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4892,7 +4892,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -4977,7 +4977,7 @@
         "rating": {
           "average": 7.5
         },
-        "weight": 97,
+        "weight": 98,
         "network": null,
         "webChannel": {
           "id": 1,
@@ -5057,7 +5057,7 @@
         "rating": {
           "average": null
         },
-        "weight": 12,
+        "weight": 27,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5139,7 +5139,7 @@
         "rating": {
           "average": null
         },
-        "weight": 76,
+        "weight": 79,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5158,18 +5158,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476019.jpg"
         },
         "summary": "<p>Morning talk show created by Rhett McLaughlin and Charles Lincoln 'Link' Neal contains loads of laughter and insanity, known for this quote: \"We do this, so you don't have to.\"</p>",
-        "updated": 1770112271,
+        "updated": 1770540449,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41611"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534540",
-            "name": "02/04/2026"
+            "href": "https://api.tvmaze.com/episodes/3538641",
+            "name": "02/11/2026"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3534541",
-            "name": "02/05/2026"
+            "href": "https://api.tvmaze.com/episodes/3538642",
+            "name": "02/12/2026"
           }
         }
       }
@@ -5221,7 +5221,7 @@
         "rating": {
           "average": null
         },
-        "weight": 64,
+        "weight": 26,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -5240,14 +5240,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1111310.jpg"
         },
         "summary": "<p>Welcome to Good Mythical MORE with Rhett &amp; Link! GMMORE is the show after the show where things are a little more relaxed, but every bit as interesting as Good Mythical Morning. Tune in daily for even more taste tests, challenges, and games!</p><p><br />\u00a0</p>",
-        "updated": 1770120085,
+        "updated": 1770794131,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/41612"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538733",
-            "name": "New Burger King Ultimate Steakhouse Whopper Taste Test"
+            "href": "https://api.tvmaze.com/episodes/3546246",
+            "name": "Don't Break The Egg!"
           }
         }
       }
@@ -5306,7 +5306,7 @@
         "rating": {
           "average": 6.6
         },
-        "weight": 47,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5391,7 +5391,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 83,
+        "weight": 45,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5555,7 +5555,7 @@
         "rating": {
           "average": 5.3
         },
-        "weight": 48,
+        "weight": 63,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -5797,7 +5797,7 @@
         "rating": {
           "average": null
         },
-        "weight": 37,
+        "weight": 23,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6123,7 +6123,7 @@
         "rating": {
           "average": null
         },
-        "weight": 58,
+        "weight": 44,
         "network": null,
         "webChannel": {
           "id": 287,
@@ -6713,7 +6713,7 @@
         "rating": {
           "average": null
         },
-        "weight": 32,
+        "weight": 17,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -6794,7 +6794,7 @@
         "rating": {
           "average": 7
         },
-        "weight": 55,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -7379,7 +7379,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 60,
+        "weight": 75,
         "network": null,
         "webChannel": {
           "id": 103,
@@ -8684,7 +8684,7 @@
         "rating": {
           "average": null
         },
-        "weight": 23,
+        "weight": 51,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -8852,7 +8852,7 @@
         "rating": {
           "average": null
         },
-        "weight": 31,
+        "weight": 18,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -8936,7 +8936,7 @@
         "rating": {
           "average": null
         },
-        "weight": 13,
+        "weight": 25,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9099,7 +9099,7 @@
         "rating": {
           "average": null
         },
-        "weight": 29,
+        "weight": 41,
         "network": null,
         "webChannel": {
           "id": 379,
@@ -9259,7 +9259,7 @@
         "rating": {
           "average": null
         },
-        "weight": 10,
+        "weight": 3,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9498,7 +9498,7 @@
         "rating": {
           "average": null
         },
-        "weight": 48,
+        "weight": 10,
         "network": null,
         "webChannel": {
           "id": 21,
@@ -9674,7 +9674,7 @@
         "rating": {
           "average": 7.3
         },
-        "weight": 98,
+        "weight": 97,
         "network": null,
         "webChannel": {
           "id": 329,
@@ -9757,7 +9757,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -9844,7 +9844,7 @@
         "rating": {
           "average": null
         },
-        "weight": 56,
+        "weight": 68,
         "network": null,
         "webChannel": {
           "id": 83,
@@ -10023,7 +10023,7 @@
         "rating": {
           "average": null
         },
-        "weight": 67,
+        "weight": 23,
         "network": {
           "id": 76,
           "name": "TV Tokyo",
@@ -10115,7 +10115,7 @@
         "rating": {
           "average": null
         },
-        "weight": 75,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 464,
@@ -10138,14 +10138,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/412/1030402.jpg"
         },
         "summary": "<p>Hang out with Ricky, Julian and Bubbles in Ricky's kitchen, smoking, drinking and talking about whatever the hell pops up in their fucked up brains.</p>",
-        "updated": 1770028283,
+        "updated": 1770566427,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/62418"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3538023",
-            "name": "Snow Can Fuck Off"
+            "href": "https://api.tvmaze.com/episodes/3543550",
+            "name": "Ricky the Divine"
           }
         }
       }
@@ -10290,7 +10290,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10377,7 +10377,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10464,7 +10464,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10551,7 +10551,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10638,7 +10638,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10725,7 +10725,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10812,7 +10812,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10899,7 +10899,7 @@
         "rating": {
           "average": 5.4
         },
-        "weight": 89,
+        "weight": 84,
         "network": null,
         "webChannel": {
           "id": 2,
@@ -10990,7 +10990,7 @@
         "rating": {
           "average": null
         },
-        "weight": 43,
+        "weight": 82,
         "network": null,
         "webChannel": {
           "id": 187,
@@ -11079,7 +11079,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11168,7 +11168,7 @@
         "rating": {
           "average": null
         },
-        "weight": 53,
+        "weight": 37,
         "network": null,
         "webChannel": {
           "id": 73,
@@ -11415,7 +11415,7 @@
         "rating": {
           "average": null
         },
-        "weight": 34,
+        "weight": 60,
         "network": null,
         "webChannel": {
           "id": 352,
@@ -11508,7 +11508,7 @@
         "rating": {
           "average": null
         },
-        "weight": 85,
+        "weight": 84,
         "network": {
           "id": 112,
           "name": "RTL4",
@@ -11531,18 +11531,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/332/830481.jpg"
         },
         "summary": "<p>In <b>Goede Tijden, Slechte Tijden</b>, we follow the adventures of a group of friends and families in the fictional Dutch town called Meerdijk.</p>",
-        "updated": 1769924136,
+        "updated": 1770446750,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/2504"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509939",
-            "name": "Aflevering 7206"
+            "href": "https://api.tvmaze.com/episodes/3509943",
+            "name": "Aflevering 7210"
           },
           "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509940",
-            "name": "Aflevering 7207"
+            "href": "https://api.tvmaze.com/episodes/3509944",
+            "name": "Aflevering 7211"
           }
         }
       }
@@ -11602,7 +11602,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 91,
+        "weight": 83,
         "network": {
           "id": 78,
           "name": "Disney Channel",
@@ -11895,7 +11895,7 @@
         "rating": {
           "average": null
         },
-        "weight": 66,
+        "weight": 73,
         "network": null,
         "webChannel": {
           "id": 15,
