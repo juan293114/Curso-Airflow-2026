@@ -5022,14 +5022,14 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/607/1518046.jpg"
         },
         "summary": "<p>Heed the call of adventure and enter <b>Dimension 20</b> where Game Master Brennan Lee Mulligan, joined by comedians and pro gamers, blends comedy with tabletop RPGs.</p>",
-        "updated": 1770250061,
+        "updated": 1770854820,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/56531"
           },
           "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3518906",
-            "name": "TBA"
+            "name": "Good Vibrations"
           }
         }
       }

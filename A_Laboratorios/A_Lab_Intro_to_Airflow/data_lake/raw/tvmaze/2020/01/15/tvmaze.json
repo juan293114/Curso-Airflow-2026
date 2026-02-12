@@ -7884,14 +7884,18 @@
           "original": "https://static.tvmaze.com/uploads/images/original_untouched/471/1179391.jpg"
         },
         "summary": "<p>Arm Weerayut hosts a variety show where he discusses culture, his work at GMMTV, and hosts his coworkers for special guest interviews!</p>",
-        "updated": 1770458624,
+        "updated": 1770857555,
         "_links": {
           "self": {
             "href": "https://api.tvmaze.com/shows/54834"
           },
           "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3525355",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3547240",
+            "name": "Episode 197"
+          },
+          "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3547241",
+            "name": "Episode 198"
           }
         }
       }
@@ -9419,7 +9423,7 @@
         "rating": {
           "average": 6.7
         },
-        "weight": 94,
+        "weight": 95,
         "network": {
           "id": 5,
           "name": "The CW",

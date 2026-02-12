@@ -2,6 +2,7 @@ import sys
 from pathlib import Path
 import pendulum
 from airflow.decorators import dag, task
+from airflow.sensors.filesystem import FileSensor
 
 
 PROJECT_ROOT = "/opt/airflow/"
@@ -15,6 +16,7 @@ from elt.dim_time import build_dim_time
 from elt.dim_shows import build_dim_shows  
 from elt.dim_networks import build_dim_networks
 from elt.fact_episodes import build_fact_episodes          
+from elt.send_email import send_completion_email
 
 BOGOTA_TZ = pendulum.timezone("America/Bogota")
 
@@ -114,6 +116,19 @@ def elt_medallon_dag():
     def fact_episodes():          
         return build_fact_episodes(**EPISODES_PARAMS)
     
+    wait_for_fact_episodes = FileSensor(
+        task_id="wait_for_fact_episodes",
+        filepath=str(FACT_EPISODES_PATH),
+        poke_interval=30,
+        timeout=3600,
+        fs_conn_id="fs_default",
+        mode="poke", 
+    )
+
+    @task()
+    def send_email_notification():
+        return send_completion_email()
+
     #Orquestación
     i = ingest()
     b = bronze()
@@ -122,7 +137,8 @@ def elt_medallon_dag():
     show = dim_shows()  
     network = dim_networks()
     episodes = fact_episodes()
+    email = send_email_notification()
 
-    i >>  b >> s >> [time, show, network] >> episodes
+    i >>  b >> s >> [time, show, network] >> episodes >> wait_for_fact_episodes >> email
     
 elt_medallon = elt_medallon_dag()                           
