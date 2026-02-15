@@ -1,2 +1,9 @@
 {"timestamp":"2026-02-15T14:13:59.615233","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
 {"timestamp":"2026-02-15T14:13:59.616173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-15T14:14:00.674111","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2026-02-15T14:14:00.721011","level":"info","event":"Connection Retrieved 'fs_default'","logger":"airflow.hooks.base"}
+{"timestamp":"2026-02-15T14:14:00.721395","level":"info","event":"Poking for file /opt/airflow/data_lake/gold/facts/episodes.parquet","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2026-02-15T14:14:00.753654","level":"info","event":"Found File /opt/airflow/data_lake/gold/facts/episodes.parquet last modified: 20260215141358","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2026-02-15T14:14:00.754044","level":"info","event":"Success criteria met. Exiting.","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2026-02-15T14:14:00.754292","level":"info","event":"Poking for file /opt/airflow/data_lake/gold/facts/episodes.parquet","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2026-02-15T14:14:00.792756","level":"info","event":"Found File /opt/airflow/data_lake/gold/facts/episodes.parquet last modified: 20260215141358","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
