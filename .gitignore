@@ -1,0 +1,91 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+.envrc
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# Project-specific data/logs
+A_Laboratorios/A_Lab_Intro_to_Airflow/data_lake/
+A_Laboratorios/A_Lab_Intro_to_Airflow/logs/
+A_Laboratorios/B_Lab_Celery_Executor/logs/
+
+# Ignore all B_Proyectos except A_Grupo_1
+B_Proyectos/**
+!B_Proyectos/
+!B_Proyectos/A_Grupo_1/
+!B_Proyectos/A_Grupo_1/**
+
+# Ignore all C_Talleres except A_Grupo_1 and Taller_Modelado_Dimensional.md
+C_Talleres/**
+!C_Talleres/
+!C_Talleres/A_Grupo_1/
+!C_Talleres/A_Grupo_1/**
+!C_Talleres/Taller_Modelado_Dimensional.md
