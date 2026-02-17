@@ -52,6 +52,7 @@ cover/
 .env
 .envrc
 .venv/
+**/.venv/
 venv/
 ENV/
 env/
