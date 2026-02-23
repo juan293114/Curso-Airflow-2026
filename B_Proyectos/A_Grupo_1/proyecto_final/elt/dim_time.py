@@ -2,7 +2,12 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-def build_dim_time(silver_path, output_path, **kwargs):
+def build_dim_time(output_path, **kwargs):
+    """
+    Genera dimension tiempo del ano actual y la guarda en output_path.
+    Inputs: output_path (str o Path).
+    Output: None (escribe parquet en disco).
+    """
     # Generamos un rango de fechas para el año actual
     curr_year = datetime.now().year
     dates = pd.date_range(start=f"{curr_year}-01-01", end=f"{curr_year}-12-31", freq='D')

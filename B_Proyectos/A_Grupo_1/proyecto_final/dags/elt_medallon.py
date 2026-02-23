@@ -5,14 +5,14 @@ from airflow.decorators import dag, task
 from airflow.sensors.filesystem import FileSensor
 import os 
 
-# 1. Configuración de Rutas de Sistema
+# Configuración de Rutas de Sistema
 PROJECT_ROOT = Path("/opt/airflow")
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.append(str(PROJECT_ROOT))
 
 # Importaciones de tus módulos técnicos en la carpeta /elt
-from elt.ingest_raw import ingest_raw  
-from elt.bronze import copy_raw_to_bronze
+from elt.raw import ingest_raw  
+from elt.bronze import transform_raw_to_bronze
 from elt.silver import transform_bronze_to_silver 
 from elt.dim_time import build_dim_time  
 from elt.dim_products import build_dim_products  
@@ -21,46 +21,60 @@ from elt.fact_products import build_fact_products  # Cambiado de episodes a prod
 from elt.send_email import send_completion_email
 
 # Configuración Horaria
-BOGOTA_TZ = pendulum.timezone("America/Bogota")
+TIMEZONE = pendulum.timezone("America/Lima")
 
-# 2. Definición del Data Lake (Rutas Independientes)
+# Definición del Data Lake (Rutas Independientes)
 DATA_LAKE_ROOT = PROJECT_ROOT / "data_lake"
 SOURCE_NAME = "fakestore"
 
-RAW_ROOT = DATA_LAKE_ROOT / "raw" / SOURCE_NAME
+RAW_PATH = DATA_LAKE_ROOT / "raw" / SOURCE_NAME
 BRONZE_PATH = DATA_LAKE_ROOT / "bronze" / SOURCE_NAME
 SILVER_PATH = DATA_LAKE_ROOT / "silver" / SOURCE_NAME
 GOLD_PATH = DATA_LAKE_ROOT / "gold"
 
-# 3. Diccionarios de Parámetros para las Funciones
-INGEST_PARAMS = {
-    "output_dir": str(RAW_ROOT),
+RAW_FILE = f"{SOURCE_NAME}_raw.json"
+BRONZE_FILE = f"{SOURCE_NAME}_bronze.parquet"
+SILVER_FILE = f"{SOURCE_NAME}_silver.parquet"
+
+
+# Diccionarios de Parámetros para las Funciones
+RAW_PARAMS = {
+    "raw_path": RAW_PATH / RAW_FILE,
     "timeout": 30,
 }
 
 BRONZE_PARAMS = {
-    "raw_root": str(RAW_ROOT),
-    "bronze_path": str(BRONZE_PATH / f"{SOURCE_NAME}.parquet"),
+    "raw_path": RAW_PATH / RAW_FILE,
+    "bronze_path": BRONZE_PATH / BRONZE_FILE,
 }
 
 SILVER_PARAMS = {
-    "bronze_path": str(BRONZE_PATH / f"{SOURCE_NAME}.parquet"), 
-    "silver_path": str(SILVER_PATH / f"{SOURCE_NAME}_silver.parquet"),
+    "bronze_path": BRONZE_PATH / BRONZE_FILE,
+    "silver_path": SILVER_PATH / SILVER_FILE,
 }
 
 # Parámetros para Capa Gold (Modelo Estrella)
-SILVER_FILE = str(SILVER_PATH / f"{SOURCE_NAME}_silver.parquet")
+DIM_TIME_PARAMS = {
+    "output_path": str(GOLD_PATH / "dimensions" / "dim_time.parquet")
+}
+DIM_PROD_PARAMS = {
+    "silver_path": SILVER_PATH / SILVER_FILE,
+    "output_path": str(GOLD_PATH / "dimensions" / "dim_products.parquet")
+}
+DIM_CAT_PARAMS  = {
+    "silver_path": SILVER_PATH / SILVER_FILE,
+    "output_path": str(GOLD_PATH / "dimensions" / "dim_categories.parquet")
+}
+FACT_PROD_PARAMS = {
+    "silver_path": SILVER_PATH / SILVER_FILE,
+    "output_path": str(GOLD_PATH / "facts" / "fact_products.parquet")
+}
 
-DIM_TIME_PARAMS = {"silver_path": SILVER_FILE, "output_path": str(GOLD_PATH / "dimensions" / "dim_time.parquet")}
-DIM_PROD_PARAMS = {"silver_path": SILVER_FILE, "output_path": str(GOLD_PATH / "dimensions" / "dim_products.parquet")}
-DIM_CAT_PARAMS  = {"silver_path": SILVER_FILE, "output_path": str(GOLD_PATH / "dimensions" / "dim_categories.parquet")}
-FACT_PROD_PARAMS = {"silver_path": SILVER_FILE, "output_path": str(GOLD_PATH / "facts" / "fact_products.parquet")}
-
-# 4. Definición del DAG
+# Definición del DAG
 @dag(
     dag_id="elt_medallon_fakestore",
     schedule="0 5 * * *", 
-    start_date=pendulum.datetime(2026, 2, 1, tz=BOGOTA_TZ),
+    start_date=pendulum.datetime(2026, 2, 1, tz=TIMEZONE),
     catchup=False,
     tags=["data_engineering", "fakestore", "parquet"],
 )
@@ -68,11 +82,11 @@ def elt_medallon_dag():
 
     @task()
     def ingest():
-        return ingest_raw(**INGEST_PARAMS)
+        return ingest_raw(**RAW_PARAMS)
     
     @task()
     def bronze():
-        return copy_raw_to_bronze(**BRONZE_PARAMS)
+        return transform_raw_to_bronze(**BRONZE_PARAMS)
     
     @task()
     def silver():   
@@ -107,7 +121,7 @@ def elt_medallon_dag():
     def notify():
         return send_completion_email()
 
-    # 5. Orquestación y Flujo de Dependencias
+    # Orquestación y Flujo de Dependencias
     raw_data = ingest()
     bronze_data = bronze()
     silver_data = silver()

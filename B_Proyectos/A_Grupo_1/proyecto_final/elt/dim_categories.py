@@ -2,6 +2,11 @@ import pandas as pd
 from pathlib import Path
 
 def build_dim_categories(silver_path, output_path, **kwargs):
+    """
+    Crea la dimension de categorias desde silver y la guarda en output_path.
+    Inputs: silver_path (str o Path), output_path (str o Path).
+    Output: None (escribe parquet en disco).
+    """
     df = pd.read_parquet(silver_path)
     
     # Extraer categorías únicas
