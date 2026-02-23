@@ -1,0 +1,8 @@
+{"timestamp":"2026-02-23T01:57:24.634907","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2026-02-23T01:57:24.635504","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-23T01:57:25.333780Z","level":"info","event":"--------------------------------------------------","chan":"stdout","logger":"task"}
+{"timestamp":"2026-02-23T01:57:25.334394Z","level":"info","event":"PROCESO ELT COMPLETADO EXITOSAMENTE","chan":"stdout","logger":"task"}
+{"timestamp":"2026-02-23T01:57:25.334790Z","level":"info","event":"Capa Gold generada. Listos para Power BI.","chan":"stdout","logger":"task"}
+{"timestamp":"2026-02-23T01:57:25.335052Z","level":"info","event":"--------------------------------------------------","chan":"stdout","logger":"task"}
+{"timestamp":"2026-02-23T01:57:25.246136","level":"info","event":"Done. Returned value was: True","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
+{"timestamp":"2026-02-23T01:57:25.246451","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('019c8837-0b88-7bd5-b163-8bbf5a1c0210'), task_id='notify', dag_id='elt_medallon_fakestore', run_id='manual__2026-02-23T01:57:14.725366+00:00', try_number=1, map_index=-1, hostname='435cfd23faad', context_carrier=None, task=<Task(_PythonDecoratedOperator): notify>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2026, 2, 23, 1, 57, 24, 527312, tzinfo=TzInfo(UTC)), end_date=None, is_mapped=False)","logger":"task"}

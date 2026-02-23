@@ -1,0 +1,5 @@
+{"timestamp":"2026-02-23T01:57:23.374990","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2026-02-23T01:57:23.375600","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/elt_medallon.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2026-02-23T01:57:23.980733","level":"info","event":"Poking callable: <function elt_medallon_dag.<locals>.check_fact_file_exists at 0x7f225247a7a0>","logger":"airflow.task.operators.airflow.providers.standard.decorators.sensor.DecoratedSensorOperator"}
+{"timestamp":"2026-02-23T01:57:23.983295","level":"info","event":"Success criteria met. Exiting.","logger":"airflow.task.operators.airflow.providers.standard.decorators.sensor.DecoratedSensorOperator"}
+{"timestamp":"2026-02-23T01:57:24.053143Z","level":"info","event":"Archivo detectado con éxito en: /opt/airflow/data_lake/gold/facts/fact_products.parquet","chan":"stdout","logger":"task"}
