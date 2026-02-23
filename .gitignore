@@ -77,6 +77,8 @@ dmypy.json
 A_Laboratorios/A_Lab_Intro_to_Airflow/data_lake/
 A_Laboratorios/A_Lab_Intro_to_Airflow/logs/
 A_Laboratorios/B_Lab_Celery_Executor/logs/
+B_Proyectos/A_Grupo_1/proyecto_final/logs/
+B_Proyectos/A_Grupo_1/proyecto_final/data_lake/
 
 # Ignore all B_Proyectos except A_Grupo_1
 B_Proyectos/**
@@ -90,3 +92,7 @@ C_Talleres/**
 !C_Talleres/A_Grupo_1/
 !C_Talleres/A_Grupo_1/**
 !C_Talleres/Taller_Modelado_Dimensional.md
+
+# Re-ignore generated data/logs under A_Grupo_1 (must be after unignore rules)
+B_Proyectos/A_Grupo_1/proyecto_final/logs/
+B_Proyectos/A_Grupo_1/proyecto_final/data_lake/

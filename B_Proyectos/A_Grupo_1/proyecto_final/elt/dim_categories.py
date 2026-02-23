@@ -10,7 +10,7 @@ def build_dim_categories(silver_path, output_path, **kwargs):
     df = pd.read_parquet(silver_path)
     
     # Extraer categorías únicas
-    categories = df['category'].unique()
+    categories = sorted(df['category'].dropna().unique())
     dim_cat = pd.DataFrame({
         'category_key': range(1, len(categories) + 1),
         'category_name': categories

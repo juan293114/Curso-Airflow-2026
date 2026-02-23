@@ -3,13 +3,12 @@ import json
 from pathlib import Path
 
 
-def ingest_raw(raw_path, timeout=15, **kwargs):
+def ingest_raw(api_url, raw_path, timeout=15, **kwargs):
     """
-    Descarga productos de FakeStore y guarda un JSON en raw_path.
-    Inputs: raw_path (str o Path) archivo de salida, timeout (int).
+    Descarga datos desde api_url y guarda un JSON en raw_path.
+    Inputs: api_url (str), raw_path (str o Path) archivo de salida, timeout (int).
     Output: str con la ruta del archivo guardado.
     """
-    api_url = "https://fakestoreapi.com/products"
     
     raw_path = Path(raw_path)
     raw_path.parent.mkdir(parents=True, exist_ok=True)
